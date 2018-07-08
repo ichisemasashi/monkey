@@ -17,9 +17,15 @@ const (
     IDENT = "IDENT" // add, foobar, x, y, ...
     INT = "INT" // 1343456
 
-    // デリミタ
+    // 
     ASSIGN = "="
     PLUS = "+"
+    MINUS = "-"
+    BANG = "!"
+    ASTERISK = "*"
+    SLASH = "/"
+    LT = "<"
+    GT = ">"
 
     // デリミタ
     COMMA = ","
